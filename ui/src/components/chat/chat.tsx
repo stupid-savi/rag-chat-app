@@ -99,7 +99,7 @@ const Chat = () => {
                                         </div>
                                     ) : (
                                         <div className="w-8 h-8 rounded-full overflow-hidden flex-shrink-0">
-                                            <Image src="/user.jpg" alt="User" width={32} height={32} />
+                                            <Image src="/rakesh.jpg" alt="User" width={32} height={32} />
                                         </div>
                                     )}
                                     <div
