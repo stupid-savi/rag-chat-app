@@ -1,0 +1,67 @@
+Coder's Gyan is an online learning platform created by Rakesh K, a seasoned software developer with over a decade of experience. The platform offers in-depth, practical courses aimed at transforming learners into proficient full-stack engineers.
+
+Featured Courses
+
+Full Stack Engineering Course (MERN Stack)
+Duration: 65+ hours of on-demand content
+Format: Self-paced with lifetime access
+Cost: ₹3,995
+Highlights:
+
+Build a real-time pizza delivery application
+
+Learn microservices architecture, test-driven development (TDD), and REST API design
+
+Implement token-based authentication and multi-tenancy system
+
+Integrate payment gateways and real-time communication
+
+Utilize Docker containers and CI/CD pipeline
+
+Access to a private Discord community for support
+
+Certificate of completion
+
+5 years of course access
+
+Source code for all 7 applications
+
+Doubt-solving and chat support
+
+Backend Foundation Cohort 1.0
+Duration: 12 weeks (Live course)
+Format: Live interactive sessions
+Instructor: Rakesh
+Focus Areas:
+
+Core backend engineering principles
+
+Building production-ready applications
+
+Database management and API design
+
+System scalability and security implementation
+
+Modern DevOps practices and deployment strategies
+
+Integration of AI and third-party services
+
+Preparation for real-world backend engineering roles
+
+About the Instructor
+
+Rakesh K is a software developer with over 10 years of experience, having worked with various companies of all sizes. He is passionate about teaching and has mentored over 100,000 students through his YouTube channel, "CodersGyan." His goal is to create top-quality content that's accessible to everyone, aiming to make great education affordable and effective.
+
+Student Testimonials
+
+"Rakesh sir is the best teacher I've ever had. His MERN stack course is well-structured, covers a wide range of topics, and is very affordable. I highly recommend it to anyone serious about learning web development."
+— Md. Samim Aktar, System Engineer at TCS
+
+"I want to express my gratitude to @codersGyan for making the MERN course. The standout feature of this course is its comprehensive coverage, addressing not only the technical part but also the practical elements of the problem."
+— Sujoy Haldar, Full Stack Developer
+
+Additional Resources
+
+YouTube Channel: CodersGyan
+GitHub: CodersGyan GitHub
+LinkedIn: Rakesh K
